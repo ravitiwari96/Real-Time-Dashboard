@@ -11,3 +11,7 @@ This project is a real-time, dynamic data dashboard designed to display continuo
 - **Direct Query in Power BI:** Connected Power BI to the SQL Server database via Direct Query, allowing live data updates on the dashboard.
 
 - **Interactive Dashboard:** Created an interactive Power BI dashboard to visualize real-time data with immediate refresh capabilities.
+
+
+
+![image](https://github.com/user-attachments/assets/71943ca5-f5a1-4ec9-bb1d-d11972290321)
