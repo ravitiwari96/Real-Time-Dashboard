@@ -1,6 +1,6 @@
 # Real-Time Data Dashboard
 
-This project is a real-time, dynamic data dashboard designed to display continuously updated information from a database. Using Python, Flask, SQL Server, and Power BI, this dashboard provides immediate insights into live data.
+This project is a real-time, dynamic data dashboard designed to display continuously updated information from a database. Built with SQL Server and Power BI, the dashboard provides immediate insights into live data. This repository showcases only the dashboard, without the underlying data generation process.
 
 - **Data Pipeline:** Built a real-time data pipeline with Python and Flask to generate dynamic data.
 
